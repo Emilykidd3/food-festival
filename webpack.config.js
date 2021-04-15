@@ -1,5 +1,3 @@
-// gives Cannot read property 'jquery' of undefined error when added in
-// require("bootstrap");
 const webpack = require("webpack");
 const path = require("path");
 const BundleAnalyzerPlugin = require("webpack-bundle-analyzer")
